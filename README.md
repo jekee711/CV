@@ -99,9 +99,10 @@ unobservable internal emulsification process visible, and predicts the resulting
 
 ### Software Copyright
 
-- **CEVSim — Cosmetic Emulsification Vessel Scale-Up Simulator**
-  Korea Copyright registration no. **2026-032760** *(under review)* · SKKU program registration **R-2026-0567-KR-1**
-  Registrant: SKKU Industry–Academic Cooperation Foundation
+- **CEVSim — Cosmetic Emulsification Vessel Scale-Up Simulator** (화장품 에멀젼 제조 가마 스케일업 시뮬레이터)
+  **Registered** ✅ — Computer Program Work copyright, Korea Copyright Commission (한국저작권위원회)
+  Registration no. **C-2026-030853** (제C-2026-030853호) · Receipt no. 2026-032760 · Registered **2026-06-23**
+  Registrant: Sungkyunkwan University Industry–Academic Cooperation Foundation (성균관대학교산학협력단)
 
 ### Patent *(project-derived)*
 
